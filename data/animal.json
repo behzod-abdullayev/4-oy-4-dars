@@ -1,0 +1,30 @@
+[
+    {
+        "name": "tiger",
+        "home": "forest",
+        "meal": "meat",
+        "type": "carnivore"
+    },
+    {
+        "name": "crocadile",
+        "home": "river",
+        "meal": "meat",
+        "type": "carnivore"
+    },
+    {
+        "name": "zebra",
+        "home": "forest",
+        "meal": "meat",
+        "type": "herbivore"
+    },
+    {
+        "name": "dog",
+        "home": " house",
+        "meal": "meat, plant",
+        "type": "herbivore, carnivore"
+    },
+    {
+        "title": "egfeg",
+        "fdj": "dgfdd"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "country": "UZBEKISTAN",
+        "population": "37 MILLION",
+        "active-personnel": "48 000",
+        "defense budget": " 2,800,500,000 $",
+        "purchasing power": "319,174,000,000 $",
+        "total aircraft": "192",
+        "tank strength": "340",
+        "amored vehicles": "2970",
+        "fleet strength": "none (land locked)",
+        "world rank": "58"
+    },
+    {
+        "country": "kazakhsan",
+        "population": "20 MILLION",
+        "active-personnel": "110,000",
+        "defense budget": " 2,048,700,000 $",
+        "purchasing power": "705,520,000,000 $",
+        "total aircraft": "198",
+        "tank strength": "350",
+        "amored vehicles": "7,736",
+        "fleet strength": "26",
+        "world rank": "57"
+    },
+    {
+        "country": "CHINA",
+        "population": "1.4 BILLION",
+        "active-personnel": "2,135,000",
+        "defense budget": " 266,850,000,000 $",
+        "purchasing power": "31,227,000,000,000 $",
+        "total aircraft": "3309",
+        "tank strength": "6800",
+        "amored vehicles": "144,017",
+        "fleet strength": "754",
+        "world rank": "3"
+    },
+    {
+        "title": "egfeg",
+        "fdj": "dgfdd"
+    }
+]

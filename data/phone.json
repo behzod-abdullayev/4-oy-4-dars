@@ -1,0 +1,45 @@
+[
+    {
+        "name": "samsung galaxy s20+",
+        "brand": "SAMSUNG",
+        "country": "SOUTH KOREA",
+        "DISPlay": "DYNAMIC AMOLED",
+        "CPU": "Qualcomm snapdragon 865 5G",
+        "GPU": "ANDRENO 650",
+        "ROM": "128GB",
+        "RAM": "12GB",
+        "CAMERA": "telephoto: 64MP, standart: 12MP, ultrawide: 12MP, depth: 0.3MP",
+        "FRONT CAMERA": "10MP",
+        "BATTERY": "li-ion, 4500mAh"
+    },
+    {
+        "name": "samsung galaxy s25 ultra",
+        "brand": "SAMSUNG",
+        "country": "SOUTH KOREA",
+        "DISPlay": "DYNAMIC AMOLED 2X",
+        "CPU": "Qualcomm snapdragon 8 gen elite",
+        "GPU": "ANDRENO 830",
+        "ROM": "1TB",
+        "RAM": "16GB",
+        "CAMERA": "standart: 200MP, telephoto: 50MP, telephoto: 10MP, ultrawide: 50MP",
+        "FRONT CAMERA": "12MP",
+        "BATTERY": "li-po, 5000mAh"
+    },
+    {
+        "name": "iphone 17 pro max",
+        "brand": "apple",
+        "country": "USA",
+        "DISPlay": "OLED",
+        "CPU": "A19 PRO",
+        "GPU": "A19 PRO GPU",
+        "ROM": "1TB",
+        "RAM": "12GB",
+        "CAMERA": "standart: 48MP, telephoto: 48MP, ultrawide: 48MP",
+        "FRONT CAMERA": "18MP",
+        "BATTERY": "li-ion, 5088mAh"
+    },
+    {
+        "title": "egfeg",
+        "fdj": "dgfdd"
+    }
+]
